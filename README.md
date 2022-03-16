@@ -8,6 +8,6 @@ const INTRODUCE_MYSELF = {<br>
     ocuppation: "Educational Technology",<br>
     academicEducation: "System Analyst and Developer",<br>
     actuallyLearning: "Javascript and everything about Front-End Development",<br>
-    linkedin: "https://www.linkedin.com/in/daniela-alvesm/",<br>
+    linkedin: <a href="https://www.linkedin.com/in/daniela-alvesm/">"https://www.linkedin.com/in/daniela-alvesm/"</a>,<br>
 };<br>
 </pre>

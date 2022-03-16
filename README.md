@@ -10,6 +10,4 @@ const INTRODUCE_MYSELF = {<br>
     actuallyLearning: "Javascript and everything about Front-End Development",<br>
     linkedin: "https://www.linkedin.com/in/daniela-alvesm/",<br>
 };<br>
-<br>
-console.log(INTRODUCE_MYSELF);
 </pre>

@@ -7,7 +7,7 @@ const INTRODUCE_MYSELF = {<br>
     workingAt: "Colégio Franco-Brasileiro",<br>
     ocuppation: "Educational Technology",<br>
     academicEducation: "System Analyst and Developer",<br>
-    actuallyLearning: "Javascript and everything about Front-End Development",<br>
+    actuallyLearning: "Javascript and frameworks for Front-End Development",<br>
     linkedin: <a href="https://www.linkedin.com/in/daniela-alvesm/">"https://www.linkedin.com/in/daniela-alvesm/"</a>,<br>
 };<br>
 </pre>

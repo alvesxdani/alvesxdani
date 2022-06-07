@@ -10,5 +10,4 @@ const INTRODUCE_MYSELF = {<br>
     actuallyLearning: "Javascript and frameworks for Front-End Development",<br>
     linkedin: <a href="https://www.linkedin.com/in/daniela-alvesm/">"https://www.linkedin.com/in/daniela-alvesm/"</a>,<br>
 };<br>
-console.log(INTRODUCE_MYSELF);
 </pre>

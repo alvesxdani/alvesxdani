@@ -9,5 +9,6 @@ const INTRODUCE_MYSELF = {<br>
     academicEducation: "System Analyst and Developer",<br>
     actuallyLearning: "Javascript and frameworks for Front-End Development",<br>
     linkedin: <a href="https://www.linkedin.com/in/daniela-alvesm/">"https://www.linkedin.com/in/daniela-alvesm/"</a>,<br>
+    portfolio: <a href="https://alvesxdani.github.io">"https://alvesxdani.github.io"</a>,<br>
 }<br>
 </pre>

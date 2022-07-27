@@ -1,14 +1,5 @@
-<pre>
-<h1>// Welcome!</h1>
-const INTRODUCE_MYSELF = {<br>
-    name: "Daniela",<br>
-    lastName: "Moreira",<br>
-    age: 25,<br>
-    workingAt: "Colégio Franco-Brasileiro",<br>
-    ocuppation: "Educational Technology",<br>
-    academicEducation: "System Analyst and Developer",<br>
-    actuallyLearning: "Javascript and frameworks for Front-End Development",<br>
-    linkedin: <a href="https://www.linkedin.com/in/daniela-alvesm/">"https://www.linkedin.com/in/daniela-alvesm/"</a>,<br>
-    portfolio: <a href="https://alvesxdani.github.io">"https://alvesxdani.github.io"</a>,<br>
-}<br>
-</pre>
+# Hi, I'm Daniela! 🖖🏼
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxdani&theme=radical" height="180em">
+</div>

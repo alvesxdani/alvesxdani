@@ -1,7 +1,7 @@
 # Hi, I'm Daniela! 🖖🏼
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxdani&theme=radical&layout=compact" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" style="width: calc(100% - 50%);">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxdani&theme=radical&layout=compact" style="width: calc(100% - 50%);">
 </div>
 
 <br><br>

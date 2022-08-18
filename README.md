@@ -1,4 +1,6 @@
 # Hi, I'm Daniela! 🖖🏼
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{alvesxdani}1212%2Fhit-counter">
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" style="width: calc(100% - 50%);">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxdani&theme=radical&layout=compact" style="width: calc(100% - 50%);">

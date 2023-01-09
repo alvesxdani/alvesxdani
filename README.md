@@ -36,5 +36,5 @@
 <br><br>
 
 <div>
-<img src="https://github.com/alvesxdani/alvesxdani/blob/output/github-contribution-grid-snake.svg">
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>

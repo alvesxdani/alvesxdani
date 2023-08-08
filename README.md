@@ -1,6 +1,10 @@
 # Hi, I'm Daniela! 🖖🏼
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falvesxdani&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
+ - I'm front end developer.
+ - I'm studyng Next.js, more TypeScript and creation of an API.
+ - You can check out my portfolio [here](https://daniela-moreira.vercel.app) and my Linkedin [here](https://linkedin.com/in/daniela-alvesm).
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" style="width: calc(100% - 50%);">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxdani&theme=radical&layout=compact" style="width: calc(100% - 50%);">
@@ -8,6 +12,7 @@
 
 <br><br>
 
+## Stacks
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40"/>
@@ -16,6 +21,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
@@ -35,6 +41,5 @@
 </div>
 
 <br><br>
-
 
 ![Snake animation](https://github.com/alvesxdani/alvesxdani/blob/output/github-contribution-grid-snake.svg)

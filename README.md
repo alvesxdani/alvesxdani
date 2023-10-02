@@ -2,7 +2,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falvesxdani&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
  - I'm front end developer.
- - I'm studyng Next.js, TypeScript, Angular, Java.
+ - I'm studyng Next.js, TypeScript.
  - You can check out my portfolio [here](https://daniela-moreira.vercel.app) and my Linkedin [here](https://linkedin.com/in/daniela-alvesm).
 
 <div>

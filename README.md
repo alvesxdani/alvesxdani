@@ -3,6 +3,7 @@
 
  - I'm front end developer.
  - I'm a coffee lover
+ - Currently, I'm studying React Native and Expo.
  - You can check out my portfolio [here](https://daniela-moreira.vercel.app) and my LinkedIn [here](https://linkedin.com/in/daniela-alvesm).
 
 <div>

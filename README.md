@@ -1,7 +1,6 @@
 # Hi, I'm Daniela! 🖖🏼
 
  - I'm front end developer.
- - I'm a coffee lover
  - You can check out my portfolio [here](https://daniela-moreira.vercel.app) and my LinkedIn [here](https://linkedin.com/in/daniela-alvesm).
 
 <div>

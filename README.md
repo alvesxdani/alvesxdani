@@ -1,14 +1,9 @@
 # Hi, I'm Daniela! 🖖🏼
 
- - I'm front end developer.
- - You can check out my portfolio [here](https://daniela-moreira.vercel.app) and my LinkedIn [here](https://linkedin.com/in/daniela-alvesm).
+ - I'm front end/mobile developer.
+ - You can check out my portfolio [here](https://daniela-moreira.com) and my LinkedIn [here](https://linkedin.com/in/daniela-alvesm).
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" style="width: calc(100% - 50%);">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxdani&theme=radical&layout=compact" style="width: calc(100% - 50%);">
-</div>
-
-<br><br>
+<br>
 
 ## Skills
 <div>
@@ -34,6 +29,11 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+
+
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" /> -->
 </div>
